@@ -9,7 +9,9 @@ body {
 
 }
 
-/*header */
+/*headerr/ creare una classe sul div dopo il nav con le specifiche padding-bottom: 60px;
+    padding: 35px; , cosi da risolvere il problema della risoluzione (elementi da eliminare sul header sono:  height: 48vh;
+    padding: 30px; ) */
 header {
     background-image: url('../images/banner.jpg');
 
